@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pedro-Gustavo-Lozano-Wright
+- 👀 I’m interested in develop AI
+- 🌱 I’m currently learning tensorflow keras pytorch and openCV  
+- 💞️ I’m looking to collaborate on startups
+- 📫 How to reach me ... pedro.gustavo.lozano.wright@gmail.com
